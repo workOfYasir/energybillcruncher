@@ -1,13 +1,12 @@
 body{
-    padding: 0px;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
     overflow-x: hidden;
-    font-family: Roboto,sans-serif;
+
     /* background-color: #e5f1f7; */
+}
+.btns-child-wrapper{
+    /* padding-left: 0;
+    padding-right: 0; */
 }
 .nav{
     background-color: #4d8ecc;
@@ -15,10 +14,11 @@ body{
 padding-right: 0px;
 padding-left: 10px;
 box-shadow: 0 0 15px grey;
-
+font-family: Roboto,sans-serif;
 }
 .header-text{
     font-size: 15px;
+    margin: 0px;
 }
 .header-setting{    color: #eec013;
     text-decoration: underline;
@@ -35,4 +35,169 @@ box-shadow: 0 0 15px grey;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
    color: #def;
+}
+.bottom-header{
+    padding-top: 5px;
+    font-size: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+ 
+}
+.bottom-header-text{
+    padding-left: 0px;
+    padding-right: 0px;
+    color:#797979;
+   
+}
+.bottom-text-border{
+    margin: 4px;
+    padding: 10px;
+    border: solid 1px hsla(0,0%,71%,.5);
+    border-radius: 6px;
+}
+input[name=zip]{
+    font-size: 18px;
+    height: 60px;
+    line-height: 60px;
+    background-color: #fafafa;
+    border: 1px solid #ccc;
+    text-align: center;
+    vertical-align: middle;
+}
+.btns{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background: linear-gradient(
+90deg
+,#00c7b1 0,#11edd5 100%);
+border: 2px solid rgb(63, 63, 63);
+border-radius: 5px;
+padding:10px;
+font-weight: 500;
+font-size: 16px;
+width: 100% !important;
+color:#fff;
+}
+.btn-success{
+    background-image: linear-gradient(
+260deg
+,#41e64a,#3cd142);
+box-shadow: 0 15px 33px 1px #48d40e82;
+padding: 20px 50px;
+border:none;
+font-size: 18px;
+border-radius: 0px;
+}
+.btn-eligible{
+    background-color: #23abf9;
+    box-shadow: 0 20px 33px 1px rgb(14 152 212 / 30%);
+padding: 10px 50px;
+border:none;
+border-radius: 10px;
+font-size: 25px;
+color: #fff;
+}
+@media only screen and (max-width: 600px) and (min-width:300px) {
+    .btns-wrapper{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    p {
+        font-size: 16px !important;
+    }
+.content{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    font-size:33px !important;
+    font-weight: 500!important;
+}.btns{
+    padding: 5px 30px;
+    border: none;
+    font-size: 14px;
+}
+.btn-eligible{
+    margin-top: 3%;
+    width: 100%;
+}
+h3{
+    font-size: 20px;
+}
+.zip{
+    width: 100%;
+}
+.btn-success{
+    margin-top: 10px;
+width: 100%;
+}
+.heading{
+    font-size:33px !important;
+    font-weight: 500!important;
+ 
+}
+.heading2{
+    font-family: Roboto,helvetica,arial,sans-serif!important;
+    font-size: 17px!important;
+}
+}
+@media only screen and (max-width: 1024px) and (min-width:600px) {
+    .content{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        font-size:48px !important;
+        font-weight: 500!important;
+    }
+    .nav{
+        display: flex;
+      
+    }
+    .text-div{
+        margin-left: 0px;
+    }
+    .heading{
+        font-size:46px !important;
+        font-weight: 500 !important;
+     
+    }.btn-eligible{
+        margin-top: 20%;
+        padding: 20px 90px;
+        margin-left: 15%
+    }
+    .btns{
+        background: linear-gradient(
+            90deg
+            ,#00c7b1 0,#11edd5 100%);
+            border: 2px solid rgb(63, 63, 63);
+   
+            padding:10px;
+            font-size: 18px;
+            font-weight: 700;
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            min-height: 52px;
+width: 100% !important;
+            color:#fff;
+    }
+    .heading2{
+        font-family: Roboto,helvetica,arial,sans-serif!important;
+        font-size: 17px!important;
+    }
+    }
+.content{
+    padding-left: 200px;
+    padding-right: 200px;
+   
+}
+.heading{
+    font-size:46px;
+    font-weight: 600;
+ 
+}
+.heading2{
+    font-family: Roboto,helvetica,arial,sans-serif!important;
+    font-size: 24px;
+}
+.text{
+    padding-left: 0px;
+    color: #fff;
 }

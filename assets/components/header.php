@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 <!-- <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script> -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -30,7 +30,7 @@
 <img alt="Logo" width="160" height="70" style="height: auto;" srcset="./assets/img/headerLogo.png 1x, ./assets/img/headerLogo.png 2x" src="/assets/img/headerLogo.png" /></div>
 </span>
 </a></div>
-<div class="col-lg-4 col-md-4  col-md-offset-4 col-lg-offset-2 text-div hidden-sm hidden-xs visible-md-block visible-lg-block  ">
+<div class="col-lg-4 col-md-6  col-md-offset-4 col-lg-offset-2   text-div hidden-sm hidden-xs visible-md-block visible-lg-block  ">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-right text" >
 <strong class="strong-nav">Advertisement</strong> <br/> <p class="header-text"> Save up to 50% on Your Power Bill, <a class="header-setting" href="#">See Your Savings »</a></p></div>
 </div>
