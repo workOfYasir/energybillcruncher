@@ -159,8 +159,9 @@ width: 100%;
      
     }.btn-eligible{
         margin-top: 20%;
-        padding: 20px 90px;
-        margin-left: 15%
+        padding: 10px;
+        width: 100%;
+        margin-left: 12%
     }
     .btns{
         background: linear-gradient(

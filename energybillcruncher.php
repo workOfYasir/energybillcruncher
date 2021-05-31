@@ -128,7 +128,7 @@ When homeowners visit <a href="#"> Energybillcruncher </a> to see if they qualif
         </div>
     </div>
 
-    <div class="footer" style="margin-top:40%;margin-bottom:10%">
+    <div class="footer" style="margin-top:10%;margin-bottom:10%">
         <div class="row">
         <div class="col-md-12 col-xs-12 col-sm-12 text-center" style="font-size: 13px;color:#a8a8a8">
         References
