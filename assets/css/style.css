@@ -66,17 +66,17 @@ input[name=zip]{
 }
 .btns{
  
-    margin-bottom: 3%;
+    margin-bottom: 3%!important;
     background: linear-gradient(
 90deg
-,#00c7b1 0,#11edd5 100%);
-border: 2px solid rgb(63, 63, 63);
-border-radius: 5px;
+,#00c7b1 0,#11edd5 100%)!important;
+border: 2px solid rgb(63, 63, 63)!important;
+border-radius: 5px!important;
 padding:20px !important;
-font-weight: 500;
-font-size: 16px;
+font-weight: 500!important;
+font-size: 16px!important;
 width: 100% !important;
-color:#fff;
+color:#fff!important;
 }
 .btn-success{
     background-image: linear-gradient(
@@ -89,7 +89,7 @@ font-size: 18px;
 border-radius: 0px;
 }
 .btn-eligible{
-    background-color: #23abf9;
+    background-color: #23abf9 ;
     box-shadow: 0 20px 33px 1px rgb(14 152 212 / 30%);
 padding: 10px 50px;
 border:none;
